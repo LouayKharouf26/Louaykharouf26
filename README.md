@@ -22,11 +22,11 @@
 <p align="left">
 <img width="60" height="60" alt="javascript" src="./icons/javascript-svgrepo-com.svg" />
 <img width="60" height="60" alt="java" src="./icons/java-svgrepo-com.svg">
-<img width="60" height="60" alt="html" src="./icons/html5-01-svgrepo-com.svg" />
-<img width="60" height="60" alt="css" src="./icons/css3-01-svgrepo-com.svg" />
+<img width="60" height="60" alt="html" src="./icons/html-svgrepo-com.svg" />
+<img width="60" height="60" alt="css" src="./icons/css-3-svgrepo-com.svg" />
 <img width="60" height="60" alt="react" src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" />
 <img width="60" height="60" alt="azure" src="./icons/microsoft-azure-svgrepo-com.svg" />
-<img width="60" height="60" alt="mysql" src="./icons/mysql-svgrepo-com.svg" />
+<img width="60" height="60" alt="mysql" src="./icons/mysql-logo-svgrepo-com.svg" />
 <img width="60" height="60" alt="nestjs" src="./icons/nestjs-svgrepo-com.svg" />
 <img width="60" height="60" alt="laravel" src="./icons/laravel-svgrepo-com.svg" />
 <img width="60" height="60" alt="linux" src="./icons/linux-svgrepo-com.svg" />
