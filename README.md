@@ -33,6 +33,7 @@
 <img width="60" height="60" alt="docker" src="./icons/docker-svgrepo-com.svg" />
 <img width="60" height="60" alt="k8s" src="./icons/kubernetes-svgrepo-com.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/terraform-svgrepo-com.svg" />
+<img width="60" height="60" alt="terraform" src="./icons/Ansible_logo.svg.png" />
 
 <br />
 <br />
