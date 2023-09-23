@@ -5,7 +5,7 @@
 - My name is Louay Kharouf ✨
 - 🔭 I’m currently a Network & Telecommunication Engineering Student  ...
 - 🌱  Devops and CyberSecurity Enthusiast 
-- 👯 I’m currently making Web Developpement projects 
+- 👯 I’m currently making Web Developpement projects and migrating them to the cloud domain 
 
 <h2 align="center">
     <b>How to reach me 😁</b>
