@@ -34,6 +34,11 @@
 <img width="60" height="60" alt="k8s" src="./icons/kubernetes-svgrepo-com.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/terraform-svgrepo-com.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/Ansible_logo.svg.png" />
+<img width="60" height="60" alt="terraform" src="./icons/Jenkins.svg" />
+<img width="60" height="60" alt="terraform" src="./icons/Argo CD.svg" />
+<img width="60" height="60" alt="terraform" src="./icons/Google Cloud.svg" />
+<img width="60" height="60" alt="terraform" src="./icons/Prometheus.svg" />
+<img width="60" height="60" alt="terraform" src="./icons/Grafana.svg" />
 
 <br />
 <br />
