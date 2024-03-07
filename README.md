@@ -2,7 +2,7 @@
 ![Count](https://visitor-badge.laobi.icu/badge?page_id=Louaykharouf26.Louaykharouf26) [![Github](https://img.shields.io/github/followers/Louaykharouf26?label=Follow&style=social)](https://github.com/Louaykharouf26)
 
 
-- My name is Louay Kharouf ✨
+- My name is Louay Khrouf ✨
 - 🔭 I’m currently a Network & Telecommunication Engineering Student  ...
 - 🌱  Devops and CyberSecurity Enthusiast 
 - 👯 I’m currently making Web Developpement projects and migrating them to the cloud domain 
