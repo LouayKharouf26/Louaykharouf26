@@ -44,7 +44,8 @@
 <img width="60" height="60" alt="terraform" src="./icons/Grafana.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/Dynatrace.png" />
 <img width="60" height="60" alt="terraform" src="./icons/carbon-impact.png" />
-<img width="60" height="60" alt="terraform" src="./icons/neoload.png" />
+<img width="60" height="60" alt="NeoLoad" src="https://upload.wikimedia.org/wikipedia/en/5/5a/NeoLoad_Logo.png" />
+
 
 
 
