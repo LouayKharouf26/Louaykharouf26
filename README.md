@@ -43,8 +43,8 @@
 <img width="60" height="60" alt="terraform" src="./icons/Prometheus.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/Grafana.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/Dynatrace.png" />
-<img width="60" height="60" alt="terraform" src="./icons/carbon-impact.png" />
-<img width="60" height="60" alt="NeoLoad" src="https://upload.wikimedia.org/wikipedia/en/5/5a/NeoLoad_Logo.png" />
+<img width="60" height="60" alt="terraform" src[="./icons/carbon-impact.png" />
+<img width="60" height="60" alt="NeoLoad" src="https://upload.wikimedia.org/wikipedia/en/5/5a/NeoLoad_Logo.png](https://www.nextitcareer.com/wp-content/uploads/2023/06/NeoLoadLogo.png)" />
 
 
 
