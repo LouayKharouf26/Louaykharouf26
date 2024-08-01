@@ -36,10 +36,17 @@
 <img width="60" height="60" alt="terraform" src="./icons/terraform-svgrepo-com.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/Ansible_logo.svg.png" />
 <img width="60" height="60" alt="terraform" src="./icons/Jenkins.svg" />
+<img width="60" height="60" alt="terraform" src="./icons/gitlab.png" />
 <img width="60" height="60" alt="terraform" src="./icons/Argo CD.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/Google Cloud.svg" />
+<img width="60" height="60" alt="terraform" src="./icons/aws.png" />
 <img width="60" height="60" alt="terraform" src="./icons/Prometheus.svg" />
 <img width="60" height="60" alt="terraform" src="./icons/Grafana.svg" />
+<img width="60" height="60" alt="terraform" src="./icons/Dynatrace.png" />
+<img width="60" height="60" alt="terraform" src="./icons/carbon-impact.png" />
+<img width="60" height="60" alt="terraform" src="./icons/neoload.png" />
+
+
 
 <br />
 <br />
