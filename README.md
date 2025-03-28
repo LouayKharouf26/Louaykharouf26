@@ -3,8 +3,9 @@
 
 
 - My name is Louay Khrouf ✨
-- 🔭 R&D Intern on the GreenIT field with Berger-Levrault 
-- 🔭 I’m currently a Network & Telecommunication Engineering Student  ...
+- 🔭 R&D Engineer on the GreenIT field with Berger-Levrault
+- Preparing for PhD thesis with INRIA Lille 
+- 🔭 INSAT Alumni ...
 - 🌱  Devops and CyberSecurity Enthusiast 
 - 👯 I’m currently making Web Developpement projects and migrating them to the cloud domain 
 
