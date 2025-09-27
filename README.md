@@ -4,7 +4,7 @@
 
 - My name is Louay Khrouf ✨
 - 🔭 R&D Engineer on the GreenIT field with Berger-Levrault
-- Preparing for PhD thesis with INRIA Lille 
+- PhD Student @INRIA Lille 
 - 🔭 INSAT Alumni ...
 - 🌱  Devops and CyberSecurity Enthusiast 
 - 👯 I’m currently making Web Developpement projects and migrating them to the cloud domain 
