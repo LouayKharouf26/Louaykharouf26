@@ -11,8 +11,6 @@
 
 <br>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding animation" />
-
 ### 👨‍💻 About Me
 
 - ✨ My name is **Louay Khrouf**
